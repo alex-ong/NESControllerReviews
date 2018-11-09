@@ -5,8 +5,14 @@ Polling Rate - 16ms / 60hz (ideally 1000hz)
 
 I bought two of these. One had dodgy buttons (A/B). Other was perfect - as good as an OEM Controller.
 
-Opening it up and comparing it to the OEM NES one, they were identical apart from PCB.
-You can literally swap every part around.
+Opening it up and comparing it to the OEM NES one, they were very similar apart from PCB.
+All parts are compatible.
+
+The rubbers are thinner and more transparent on the Retrolink than original NES (thick, opaque)
+The RetroLink DPad has Diagonal nubs to block diagonals / make diagonals less sensitive.
+This was probably done since the rubbers are thinner / more sensitive.
+![image](https://github.com/alex-ong/NESControllerReviews/raw/master/NES/CirkaN85/images/11-Dpad-comp.jpg)
+
 
 I had an OEM NES controller with torn rubbers, so i swapped it with a Retrolink one.
 
