@@ -1,9 +1,12 @@
 Tomee USB adapter
 ===
 
-Picutre goe shere
+![image](https://github.com/alex-ong/NESControllerReviews/raw/master/Adapter/Tomee0.png)
 
 USB Polling Rate: TODO, probably 1ms
-Controller output polling rate: 10ms / 100hz
+Calculated internal polling rate: 10ms / 100hz -
+Total Latency: 1ms to 11ms.
 
-Test image goes here.
+Internal polling rate is calculated by timing the minimum time delta between two key events.
+
+![image](https://github.com/alex-ong/NESControllerReviews/raw/master/Adapter/Tomee1.png)
