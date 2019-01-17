@@ -18,6 +18,6 @@ USB
 
 Adapters
 ===
-[Tomee] 10ms~ polling rate (https://github.com/alex-ong/NESControllerReviews/blob/master/Adapter/Tomee.md) 
-[XeaL / mcgurk] 10000hz+ polling rate, 1ms usb rate. Total latency 1ms~.(https://github.com/alex-ong/LaglessNESUSB)
-[raphanet] 1ms usb rate, 2ms polling rate. Total latency 3ms. (https://www.raphnet-tech.com/support/advXarch/index.php#latency)
+[Tomee](https://github.com/alex-ong/NESControllerReviews/blob/master/Adapter/Tomee.md)  10ms~ polling rate 
+[XeaL / mcgurk](https://github.com/alex-ong/LaglessNESUSB) 10000hz+ polling rate, 1ms usb rate. Total latency 1ms~.
+[raphanet](https://www.raphnet-tech.com/support/advXarch/index.php#latency) 1ms usb rate, 2ms polling rate. Total latency 3ms. 
