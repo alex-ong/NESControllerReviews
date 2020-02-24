@@ -18,7 +18,7 @@ USB
 
 Adapters
 ===
-[Tomee](https://github.com/alex-ong/NESControllerReviews/blob/master/Adapter/Tomee.md)  10ms~ polling rate 
+[Tomee](https://github.com/alex-ong/NESControllerReviews/blob/master/Adapter/Tomee.md)  16ms~ polling rate 
 
 [XeaL / mcgurk](https://github.com/alex-ong/LaglessNESUSB) 10000hz+ polling rate, 1ms usb rate. Total latency 1ms~.
 
