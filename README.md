@@ -12,9 +12,11 @@ NES
 USB
 ===
 
-[Six Dollar white ebay](https://github.com/alex-ong/NESControllerReviews/blob/master/USB/Six-Dollar-ebay/Six-Dollar-ebay.md)
+[Six Dollar white ebay](https://github.com/alex-ong/NESControllerReviews/blob/master/USB/Six-Dollar-ebay/Six-Dollar-ebay.md) (40ms)
 
-[Retrolink](https://github.com/alex-ong/NESControllerReviews/blob/master/USB/retrolink/Retrolink.md)
+[Retrolink](https://github.com/alex-ong/NESControllerReviews/blob/master/USB/retrolink/Retrolink.md) (16ms)
+
+[8bitdo N30](https://github.com/alex-ong/NESControllerReviews/blob/master/USB/8bitdo_N30/8bitdo_n30.md) (16-32ms)
 
 Adapters
 ===
