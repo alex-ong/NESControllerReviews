@@ -12,8 +12,11 @@ USB Polling Rate: TODO, probably 1ms
 
 Calculated internal polling rate: 16ms/60hz
 
-Total Latency: Probably Either 0ms-16ms or 16ms-32ms
+Total Latency: Probably Either 0ms-16ms or 16ms-32ms; most likely 16ms-32ms.
 
 Internal polling rate is calculated by timing the minimum time delta between two key events.
+
+
+Polling rate test done by ZefanyaNenu
 
 ![image](https://github.com/alex-ong/NESControllerReviews/raw/master/Adapter/Chinese1/MessageRate.png)
