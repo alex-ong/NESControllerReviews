@@ -28,3 +28,4 @@ Adapters
 
 [raphanet](https://www.raphnet-tech.com/support/advXarch/index.php#latency) 1ms usb rate, 2ms polling rate. Total latency 3ms. 
 
+[RetroUSB](https://www.retrousb.com/product_info.php?cPath=21&products_id=158&osCsid=f0b0b84ad260fe02c3d8150cf4c40f81) Not reviewed. Allegedly 1ms usb rate, unknown polling rate. Max Latency either 1ms~ or 2ms~. Contact me if you have one so you can test it for me!
