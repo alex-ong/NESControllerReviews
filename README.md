@@ -16,7 +16,7 @@ USB
 
 [Retrolink](https://github.com/alex-ong/NESControllerReviews/blob/master/USB/retrolink/Retrolink.md) (16ms)
 
-[8bitdo N30](https://github.com/alex-ong/NESControllerReviews/blob/master/USB/8bitdo_N30/8bitdo_n30.md) (16-32ms)
+[8bitdo N30](https://github.com/alex-ong/NESControllerReviews/blob/master/USB/8bitdo_N30/8bitdo_n30.md) (16-32ms or 4ms; depending on firmware)
 
 Adapters
 ===
